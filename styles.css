@@ -1,0 +1,242 @@
+.logo {
+    padding-top: 20px;
+    padding-left: 60px;
+}
+button {
+    background-color: rgb(255, 69, 0);
+    padding: 8px;
+    border: none;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 14px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 250px;
+    margin-top: -40px;
+    padding-top: 10px;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
+ul li {
+    float: left;
+    margin-left: 50px;
+    /* margin-top: -30px; */
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    /* font-size: 15px; */
+    /* width: 100px; */
+    color: rgb(0, 0, 0);  
+}
+
+#button1 {
+float: right;
+margin-top: -50px;
+margin-right: 150px;
+}
+
+#graph {
+    float: right;
+    padding: 0;
+    margin-top: 0;
+    box-sizing: border-box;
+    display: block;
+}
+
+#build {
+    max-width: 500px;
+    margin-top: 100px;
+    padding-left: 60px;
+    line-height: 50px;
+}
+
+#difference {
+    max-width: 500px;  
+    margin-top: 200px;
+    padding-left: 60px;
+    line-height: 50px;
+}
+
+/* #rectangle {
+    transform: rotate(-30deg);
+    text-align: center;
+    margin-top: 50px;
+} */
+
+.numbers {
+    padding-right: 20px;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
+}
+
+#numbers {
+    float: right;
+     max-width: 500px;  
+     margin-top: 50px;
+     margin-left: 500px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    line-height: 20px;
+}
+
+.people {
+    margin-top: 100px;
+    display: flex;
+    height: 406px;
+    width: 1140px;
+    margin: 0 105px 0 105px;
+    padding-top: 50px;
+}
+
+#saying {
+    margin-top: 700px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.image {
+height: 100px;
+width: 100px;
+padding-left: 30px;
+margin-top: -70px;
+}
+
+#people1 {
+    height: 360px;
+    width: 360px;
+    border: solid rgb(207, 202, 202);
+    background-color: rgba(128, 128, 128, 0.1);
+    box-sizing: border-box;
+    margin-left: 15px;
+    border-radius: 5px;
+    padding: 50px;
+    border: none;
+}
+
+#people2 {
+    height: 360px;
+    width: 360px;
+    border: solid rgb(207, 202, 202);
+    background-color: rgba(128, 128, 128, 0.1);
+    box-sizing: border-box;
+    margin-left: 15px;
+    border-radius: 5px;
+    padding: 50px;
+    border: none;
+}
+
+#people3 {
+    height: 360px;
+    width: 360px;
+    border: solid rgb(207, 202, 202);
+    background-color: rgba(128, 128, 128, 0.1);
+    box-sizing: border-box;
+    margin-left: 15px;
+    border-radius: 5px;
+    padding: 50px;
+    border: none;
+}
+
+#button2 {
+    margin-left: 600px;
+    margin-bottom: 50px;
+}
+
+#button3 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 69, 0);
+    /* float: right; */
+    margin-left: 800px;
+    outline: none;
+    margin: 0 0 10px 0;
+    border-radius: 24px;
+    float: right;
+    margin-top: -65px;
+    
+}
+
+#simplify {
+    background-color: rgb(255, 69, 0);
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin-left: -8px;
+    padding-right: 8px;
+    /* text-align: center; */
+}
+
+.manage-logo {
+padding-left: 50px;
+padding-top: 45px;
+color: rgb(255, 255, 255);
+}
+
+.social-icons {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.navbar {
+    margin-left: 300px;
+    margin-top: -120px;
+    color: rgb(255, 255, 255);
+}
+
+#navbar {
+    margin-left: 500px;
+    margin-top: -135px;
+    color: rgb(255, 255, 255);
+}
+
+#updates {
+    float: right;
+    padding: 8px;
+    border-radius: 14px;
+    border: none;
+    margin-right: 270px;
+    margin-top: -80px;
+}
+
+#button4 {
+    float: right;
+    width: 50px;
+    margin-top: -80px;
+    margin-right: 210px;
+}
+
+#copyright {
+    margin-left: 900px;
+    padding-bottom: 30px;
+    color: rgb(255, 255, 255);
+    opacity: 0.5;
+    font-size: 13px;
+}
+
+p {
+    color: rgb(128, 128, 128);
+}
+
+.paragraph {
+    color: rgb(255, 255, 255);
+}
